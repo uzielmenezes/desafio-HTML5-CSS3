@@ -131,14 +131,15 @@ form label, form legend {
 	padding: 15px 0;
 	background: #8E8E8E;
 	color: white;
-	font-size: 18px;
+	font-size: 19px;
 	font-weight: bold;
 	border: none;
 	border-radius: 5px;
-	transition: 1s background;
+	transition: 1s all;
 }
 
 .enviar:hover {
 	background-color: #201F1F;
 	cursor:	pointer;
+	transform: scale(1.025);
 }
