@@ -129,7 +129,7 @@ form label, form legend {
 .enviar {
 	width: 40%;
 	padding: 15px 0;
-	background: orange;
+	background: #8E8E8E;
 	color: white;
 	font-size: 18px;
 	font-weight: bold;
@@ -139,6 +139,6 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background-color: darkorange;
+	background-color: #201F1F;
 	cursor:	pointer;
 }
