@@ -105,7 +105,7 @@ footer {
 }
 
 main {
-	
+
 }
 
 form {
@@ -203,13 +203,17 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	width: 940px;
-	margin: 0 auto;
 }
 
 .mapa p {
 	margin: 0 0 2em;
 	text-align: center;	
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+
 }
 
 .beneficios {
