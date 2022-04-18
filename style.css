@@ -184,6 +184,10 @@ td, th {
 	font-style: italic; 
 }
 
+.utensilios {
+	width: 150px;
+}
+
 .imagembeneficios {
 	width: 60%;
 }
