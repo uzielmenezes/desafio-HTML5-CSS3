@@ -186,6 +186,7 @@ td, th {
 
 .utensilios {
 	width: 150px;
+	float: left;
 }
 
 .imagembeneficios {
