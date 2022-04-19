@@ -104,8 +104,9 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-
+.formulario {
+	width: 940px;
+	margin: 0 auto;
 }
 
 form {
