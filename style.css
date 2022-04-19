@@ -200,6 +200,11 @@ td, th {
 	float: left;
 	margin: 0 20px 20px 20px;
 	box-shadow: 5px 5px 10px black;
+	transition: 1s;
+}
+
+.utensilios:hover {
+	opacity: 0.8;
 }
 
 .mapa {
@@ -251,6 +256,11 @@ td, th {
 .imagem-beneficios {
 	width: 60%;
 	box-shadow: 5px 5px 10px black;
+	transition: 1s;
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.8;
 }
 
 .video {
