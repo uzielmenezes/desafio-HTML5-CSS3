@@ -1,0 +1,46 @@
+@media screen and (max-width: 480px) {
+	.caixa {
+        width: auto;
+        text-align: center;
+	}
+
+	nav {
+		position: static;
+	}
+
+	.formulario {
+		display: inline;
+		text-align: center;
+	}
+
+	form label {
+		margin: 2em;
+	}
+
+	#nomesobrenome, #email, #telefone {
+		margin: 1em auto;
+		width: 20em;
+	}
+
+	#mensagem {
+		padding: 1em;
+		margin: 1em auto;
+		width: 80%;
+	}
+
+	.enviar {
+		margin: 0 auto;
+		width: 10em;	
+	}
+
+	.checkbox {
+		margin: 2em 1em;
+	}
+
+	table {
+		margin: 2em auto;
+		padding-bottom: 2em;
+	}
+
+	
+}
